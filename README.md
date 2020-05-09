@@ -1,3 +1,9 @@
+# WIP for fun stack game
+
+similar to [Stack](https://play.google.com/store/apps/details?id=com.ketchapp.stack&hl=en_US) on the Play store.
+
+It's pretty broken, but I'm just messing around.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
